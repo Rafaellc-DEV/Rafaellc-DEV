@@ -3,7 +3,7 @@
 ## Sobre Mim  
 🎓 **Estudante de Ciências da Computação**-**Cesar School**.  
 💻 Apaixonado por tecnologia, busco constantemente aprimorar minhas habilidades para trazer **maior eficiência, qualidade e segurança** aos projetos em que me envolvo.  
-🌍 Baseado em **Recife-PE**  
+🌍 **Recife-PE**  
 
 ## 🚀 Áreas de Interesse  
 - **Cibersegurança**  
@@ -20,8 +20,8 @@
 ## 🌱 Objetivo  
 Aprimorar minhas competências técnicas e contribuir para soluções inovadoras que façam a diferença.  
 
-## ## Projetos de Destaque  
-- **Projeto de Python**: Um programa que permite ao usuário organizar treinos e competições de corrida na linguagem Python. Foi feito em equipe para uma apresentação da faculdade. [Repositório do projeto](#link-do-repositorio)
+## Projetos de Destaque  
+- **[Projeto de Python]((#link-do-repositorio))**: Um programa que permite ao usuário organizar treinos e competições de corrida na linguagem Python. Foi feito em equipe para uma apresentação da faculdade.
 
 ## 🌐 Redes Sociais  
 - [LinkedIn](https://www.linkedin.com/in/rafael-lyra-costa/)  
