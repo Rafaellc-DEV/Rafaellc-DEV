@@ -21,7 +21,7 @@
 Aprimorar minhas competências técnicas e contribuir para soluções inovadoras que façam a diferença.  
 
 ## Projetos de Destaque  
-- **[Projeto de Python]((#link-do-repositorio))**: Um programa que permite ao usuário organizar treinos e competições de corrida na linguagem Python. Foi feito em equipe para uma apresentação da faculdade.
+- **[Projeto de Python](https://github.com/LucazinnDEV/Projeto-Python-cesar)**: Um programa que permite ao usuário organizar treinos e competições de corrida na linguagem Python. Foi feito em equipe para uma apresentação da faculdade.
 
 ## 🌐 Redes Sociais  
 - [LinkedIn](https://www.linkedin.com/in/rafael-lyra-costa/)  
