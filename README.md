@@ -15,7 +15,6 @@
 - **HTML**: ⭐ ⭐ ☆ ☆ ☆   
 - **Arduino**: ⭐ ⭐ ⭐ ☆ ☆
 - **Low code / No code**: ⭐ ⭐ ☆ ☆ ☆
-- **Excel**: ⭐ ⭐ ⭐ ⭐ ☆
 
 ## 🌱 Objetivo  
 Aprimorar minhas competências técnicas e contribuir para soluções inovadoras que façam a diferença.  
